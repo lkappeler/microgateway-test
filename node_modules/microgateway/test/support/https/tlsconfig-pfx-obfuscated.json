@@ -1,4 +1,0 @@
-{
-  "pfx" : "./server.pfx",
-  "passphrase" : "./pfx-obfuscated-password.json:passphrase"
-}
